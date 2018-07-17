@@ -1,0 +1,16 @@
+{
+  "name": "roma_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roma-chat-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-os": "github:extremeprog-com/core",
+    "express": "^4.16.3",
+    "express-ws": "^4.0.0"
+  }
+}
